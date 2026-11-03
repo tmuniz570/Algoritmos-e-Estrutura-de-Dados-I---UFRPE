@@ -1,24 +1,28 @@
-# Universidade Federal Rural de Pernambuco – UFRPE
-## Unidade Acadêmica de Garanhuns
-Bacharelado em Ciência da Computação
-Disciplina: Algoritmos e Estrutura de Dados I
-Professor: Rodrigo Rocha
-Lista 1 – C – Sala de aula
-1. Faça um programa que calcule e escreva o valor da soma abaixo. Para tal, implemente uma
-função que receba como parâmetro os numeradores e denominador e realize o calculo.
-2. Implemente uma funcao que recebe dois vetores (v1 e v2) e um terceiro vetor (v3) de forma que a
-funcao deve somar elementos invertidos dos vetores v1 e v2 (o primeiro de v1 com o ultimo de v2,
-o segundo de v1 com o penultimo de v2, e assim por diante). Os resultados da soma sao
-armazenados na ordem normal no vetor v3. Após isso, o programa principal imprime os valores do
-vetor v3.
-3. Foi feita uma pesquisa estatística nas 50 principais cidades de quatro Estados para coletar dados
-sobre acidentes de trânsito. Foram obtidos os seguintes dados:
-» Código da cidade
-» Estado (1-PE, 2-PB, 3-RN, 4-CE)
-» Número de veículos de passeio (em 2010)
-» Número de acidentes de trânsito com vítimas (em 2010)
-Deseja-se saber:
-» qual o maior e o menor índice de acidentes de trânsito e a que cidades pertencem;
-» qual a média de veículos nas cidades;
-» qual a média de acidentes com vítimas entre as cidades do Estado de Pernambuco.
-Implemente um programa em C que atenda as necessidades.
+# 🧮 Algorithms & Data Structures I in C (UFRPE Computer Science)
+
+![Language](https://img.shields.io/badge/Language-ANSI_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CS Fundamentals](https://img.shields.io/badge/Computer_Science-Algorithms_%26_Recursion-8E75B2?style=for-the-badge)
+
+## 📌 Overview
+
+Foundational **Computer Science (`Bacharelado em Ciência da Computação — UFRPE`)** implementations in **ANSI C** for the *Algorithms and Data Structures I* curriculum.
+
+---
+
+## 📂 Implementations
+
+* `1 lista 1.c` — Modular series summation functions with floating-point precision.
+* `2 lista 1.c` — Dynamic array allocation, filtering, and statistical aggregation.
+* `3 lista 1.c` — Recursive string/palindrome verification, multidimensional matrix manipulation, and Caesar cipher encoding.
+
+---
+
+## 👤 Author
+
+**Thiago Brandão**  
+*Senior Full-Stack Systems Engineer • Solutions Architect • AI & Data Engineer*  
+📍 Birmingham, United Kingdom 🇬🇧
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmuniz570)
+[![GitHub](https://img.shields.io/badge/GitHub-@tmuniz570-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tmuniz570)
+[![Flagship Showcase](https://img.shields.io/badge/Flagship_ERP-Architecture_Showcase-10B981?style=flat-square)](https://github.com/tmuniz570/enterprise-fleet-management-showcase)
